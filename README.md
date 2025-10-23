@@ -1,7 +1,16 @@
-## Branch Usage
+# view current README conflict to decide what to keep
+cat README.md
 
-- **author/idea-sprint** – This branch is used for writing and developing new ideas for the project.
-- **editor/review** – This branch is for reviewing, refining, and editing content before merging into the main branch.
+# Example quick replace (customize the content to what you want)
+cat > README.md <<'EOF'
+# Time Travel Zine (time-travel-asachd22)
 
-- Layout: improved headings and spacing. (branch feat/layout)
-- Layout: improved headings and spacing. (branch feat/layout)
+Short project description: I am exploring Git workflows and building a small zine — using Git as a "time machine".
+
+Branches:
+- author/idea-sprint — used for draft content and ideas.
+- editor/review — used for editorial fixes and polishing.
+
+(You can expand this as needed.)
+EOF
+
