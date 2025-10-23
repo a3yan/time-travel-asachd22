@@ -1,0 +1,7 @@
+(Commands used to set up repository)
+git config --global user.name "Aryan Sachdvea"
+git config --global user.email "asachd22@asu.edu"
+mkdir ~/time-travel-asachd22
+cd ~/time-travel-asachd22
+git init
+# ... (the rest of your commands)
