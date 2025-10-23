@@ -1,5 +1,11 @@
-target/
-*.class
+# Ignore system files
 .DS_Store
-/vscode/
-/.idea/
+
+# Ignore build or temporary files
+*.log
+*.tmp
+
+# Ignore IDE/project settings
+.vscode/
+.idea/
+
