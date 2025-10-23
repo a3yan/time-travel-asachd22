@@ -1,3 +1,6 @@
 # time-travel-asachd22
 
-This is the zine project for CSE464 (time-travel). Repository created by asachd22 (Aryan Sachdvea).
+# Time Travel Zine
+
+I am learning how to use Git for version control and collaboration by creating a mini magazine (zine). This project helps me practice commits, branches, and pull requests.
+.
