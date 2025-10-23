@@ -5,3 +5,4 @@ Welcome to my zine project! This is my creative journey through time and ideas, 
 
 ### Layout improvements
 Adjusted headings and spacing for a cleaner look.
+### Layout tweaks v2 — refining spacing again.
