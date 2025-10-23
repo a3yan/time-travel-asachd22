@@ -1,9 +1,1 @@
-# Introduction
-
-Welcome to my zine project! This is my creative journey through time and ideas, where Git becomes my time machine to revisit and improve my work.
-
-
-### Layout improvements
-Adjusted headings and spacing for a cleaner look.
-### Layout improvements
-Adjusted headings and spacing for a cleaner look.
+This line is written from Branch A — the first version of the time machine intro.
